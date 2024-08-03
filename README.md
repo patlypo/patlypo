@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Github Dundation](https://www.credly.com/badges/52e74781-6e94-4a50-85a0-daeefeceff99/public_url)
+[Github Dundation](https://www.credly.com/badges/52e74781-6e94-4a50-85a0-daeefeceff99/public_url)
 <!--
 **patlypo/patlypo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
