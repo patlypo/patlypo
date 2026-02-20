@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ff69b4&secondaryColor=ffc0cb&reversal=true" />
 </div>
 <h1 align="center">Hi , there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
@@ -102,4 +102,4 @@
 ---
 	
 </details>
-	
+	 -->
